@@ -3,7 +3,7 @@
 ## 2018
 ### 2D
 - Simple Baselines for Human Pose Estimation and Tracking [paper](https://arxiv.org/pdf/1804.06208.pdf)
-- MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network [paper] (https://arxiv.org/pdf/1807.04067.pdf)
+- MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network [paper](https://arxiv.org/pdf/1807.04067.pdf)
 - Human Pose Estimation with Parsing Induced Learner [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nie_Human_Pose_Estimation_CVPR_2018_paper.pdf)
 - Multi-Scale Structure-Aware Network for Human Pose Estimation [paper](https://arxiv.org/pdf/1803.09894.pdf)
 ### 3D
