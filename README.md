@@ -1,7 +1,15 @@
 
 
 ## 2018
-
+### 2D
+- Simple Baselines for Human Pose Estimation and Tracking [paper](https://arxiv.org/pdf/1804.06208.pdf)
+- MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network [paper] (https://arxiv.org/pdf/1807.04067.pdf)
+- Human Pose Estimation with Parsing Induced Learner [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nie_Human_Pose_Estimation_CVPR_2018_paper.pdf)
+- Multi-Scale Structure-Aware Network for Human Pose Estimation [paper](https://arxiv.org/pdf/1803.09894.pdf)
+### 3D
+- DRPose3D: Depth Ranking in 3D Human Pose Estimation [paper](https://www.ijcai.org/proceedings/2018/0136.pdf)
+- Ordinal Depth Supervision for 3D Human Pose Estimation [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.pdf) [code](https://github.com/geopavlakos/ordinal-pose3d)
+### 3D
 ## 2017
 ### 2D
 - Integral Human Pose Regression [paper](https://arxiv.org/pdf/1711.08229.pdf)
