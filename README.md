@@ -11,6 +11,7 @@
 - Ordinal Depth Supervision for 3D Human Pose Estimation [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.pdf) [code](https://github.com/geopavlakos/ordinal-pose3d)
 ## 2017
 ### 2D
+- Associative Embedding:End-to-End Learning for Joint Detection and Grouping [paper](https://arxiv.org/pdf/1611.05424.pdf)
 - Integral Human Pose Regression [paper](https://arxiv.org/pdf/1711.08229.pdf)
 - Cascaded Pyramid Network for Multi-Person Pose Estimation [paper](https://arxiv.org/pdf/1711.07319.pdf)
 - Adversarial Learning of Structure-Aware Fully Convolutional Networks for Landmark Localization [paper](https://arxiv.org/pdf/1711.00253.pdf) 
